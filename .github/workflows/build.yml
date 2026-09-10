@@ -39,4 +39,3 @@ jobs:
           name: UltraCustomizer-Addons-JDK21
           path: output_jars/*.jar
           retention-days: 7
-          
